@@ -72,7 +72,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-You will need to have Conda (either Anaconda or Miniconda) installed on your system to manage the environment.
+You will need to have Conda (either Anaconda or Miniconda) installed on your system to manage the environment, and R 4.4.2 for limma function.
 
 ### Installation
 
