@@ -92,7 +92,7 @@ You will need to have Conda (either Anaconda or Miniconda) installed on your sys
    cd Astral_DIA_analysis
    ```
 
-3. **Create and activate the conda environment:** This command will create a new conda environment named `Astral` using the specifications in the `environment.yml` file and install all necessary packages.
+3. **Create and activate the conda environment:** This command will create a new conda environment named `proteomics` using the specifications in the `environment.yml` file and install all necessary packages.
 
    Bash
 
